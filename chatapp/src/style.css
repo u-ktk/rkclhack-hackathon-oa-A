@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(to right, #f3f1ec, #d9d2d2);
+  padding: 2em;
+}
+
+.button-normal {
+  border: 1px solid #555;
+  background-color: #eee;
+  border-radius: 4px;
+  padding: 4px;
+}
